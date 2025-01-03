@@ -4,3 +4,7 @@ yolov9-e.pt
 runs/
 Videos/
 yolomodels/
+pflanze2.v3i.yolov9/test
+pflanze2.v3i.yolov9/train
+pflanze2.v3i.yolov9/valid
+best.pt

@@ -1,0 +1,13 @@
+train: C:\Users\burha\Codes\AgrarBotAI\pflanze2.v3i.yolov9\train\images
+val: C:\Users\burha\Codes\AgrarBotAI\pflanze2.v3i.yolov9\valid\images
+test: C:\Users\burha\Codes\AgrarBotAI\pflanze2.v3i.yolov9\test\images
+
+nc: 1
+names: ['plant']
+
+roboflow:
+  workspace: agrarbot
+  project: pflanze2
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/agrarbot/pflanze2/dataset/3
